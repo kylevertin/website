@@ -9,7 +9,7 @@
 .u-section-1 .u-image-1 {
   width: 386px;
   height: 386px;
-  background-image: "portrait0.jpg";
+  background-image: url("portrait0.jpg");
   background-position: 50% 0%;
   margin: 80px auto 0;
 }
