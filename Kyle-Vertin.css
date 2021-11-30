@@ -6,7 +6,7 @@
   width: 330px;
   height: 330px;
   object-position: 50% 0%;
-  background-image: url("images/portrait0.jpg");
+  background-image: url("portrait0.jpg");
   background-position: 50% 0%;
   margin: 45px auto 0;
 }
@@ -562,7 +562,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 315px;
-  background-image: url("images/library_pic.PNG");
+  background-image: url("library_pic.PNG");
   background-position: 50% 50%;
 }
 
